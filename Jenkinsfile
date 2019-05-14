@@ -4,7 +4,7 @@ pipeline {
         stage('Build') {
             steps {
                 echo 'Building..'
-                sh 'python --version'
+                sh 'python hrdkt.py'
             }
         }
         stage('Test') {
