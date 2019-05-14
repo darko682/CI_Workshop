@@ -1,11 +1,10 @@
 pipeline {
-    agent any
-
+    agent { docker { image 'python3' } }
     stages {
         stage('Build') {
             steps {
                 echo 'Building..'
-                sh 'python hrdkt.py'
+                sh 'python --version'
             }
         }
         stage('Test') {
