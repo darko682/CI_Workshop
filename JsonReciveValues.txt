@@ -1,0 +1,19 @@
+{ "tags":[
+    "Skill-name",
+    "Skill-name",
+    "Skill-name",
+    .....
+],
+"Experiencia":
+[
+    "numeric-Values",
+    "numeric-Values",
+    "numeric-Values",
+    "numeric-Values",
+    ....
+],
+"agent":
+[
+    "number-of-result-requested"
+]
+}

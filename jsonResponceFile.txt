@@ -1,0 +1,30 @@
+{
+    "data": [
+        {
+            "Name": "ISMAEL ZAMORA",
+            "Skill": Number-Value,
+            "Skill": Number-Value,
+            "Skill": Number-Value,
+            "Skill": Number-Value,
+            "Skill": Number-Value,
+            "Skill": Number-Value,
+            .......
+            "ClientMatch": number-match,
+            "AccentureMatch": number-match
+        },
+        {
+            "Name": "ISMAEL ZAMORA",
+            "Skill": Number-Value,
+            "Skill": Number-Value,
+            "Skill": Number-Value,
+            "Skill": Number-Value,
+            "Skill": Number-Value,
+            "Skill": Number-Value,
+            .......
+            "ClientMatch": number-match,
+            "AccentureMatch": number-match
+        },
+        {
+            .....
+        }
+}
